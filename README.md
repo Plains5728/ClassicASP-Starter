@@ -14,6 +14,7 @@ This is a realistic, working Classic ASP (ASP 3.0) starter project. It simulates
 ## 🎯 Purpose
 
 Use this starter project to:
+
 - Understand or review Classic ASP syntax and behavior.
 - Demonstrate legacy-to-modern .NET migration strategies.
 - Build a "before and after" comparison for ASP.NET Core modernization.
@@ -27,6 +28,7 @@ Use this starter project to:
 ## 🏗️ Next Steps
 
 Use this as a baseline to modernize into:
+
 - ASP.NET Web Forms
 - ASP.NET MVC
 - ASP.NET Core (Razor Pages or Minimal API)
