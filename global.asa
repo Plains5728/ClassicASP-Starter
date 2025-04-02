@@ -1,0 +1,9 @@
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+Sub Application_OnStart
+    Application("visits") = 0
+End Sub
+
+Sub Session_OnStart
+    Application("visits") = Application("visits") + 1
+End Sub
+</SCRIPT>
